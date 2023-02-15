@@ -8,4 +8,3 @@ while pow < num:
     print(pow, end=' ')
     pow = 2 ** power
     power += 1
-    result = pow
